@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example1.simplemavenproject1.SimpleMavenProject1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.179 s - in com.example1.simplemavenproject1.SimpleMavenProject1ApplicationTests
